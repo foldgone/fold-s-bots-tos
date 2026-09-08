@@ -1,0 +1,106 @@
+Foldgoon Bot 2.0, Zero Music & Butter Bot — Terms of Service
+
+Last Updated: September 8, 2026
+
+By adding, using, or interacting with Foldgoon Bot 2.0, Zero Music, or Butter Bot on a Discord server, you agree to the following Terms of Service.
+
+1. Use at Your Own Risk
+
+The Bots are provided as-is and may be in development. They may contain bugs, errors, unexpected behavior, limitations, or incomplete features.
+
+By adding or using any of the Bots, you acknowledge that you do so at your own risk. The bot owner and development team are not responsible for issues, damages, losses, moderation actions, server disruptions, data loss, downtime, or other consequences resulting from the use or malfunction of any Bot, to the extent permitted by applicable law.
+
+2. Bot Availability
+
+The Bots may experience downtime, maintenance, outages, or unexpected interruptions.
+
+Features may be changed, removed, temporarily disabled, or discontinued at any time without notice.
+
+We do not guarantee that any Bot will always be available, operational, or free of errors.
+
+3. Permissions
+
+Server owners and administrators are responsible for reviewing the permissions granted to the Bots before adding them to their servers.
+
+You should only grant each Bot the permissions necessary for the features you intend to use. Do not grant permissions that are unnecessary for your server's configuration.
+
+4. Server Responsibility
+
+Server owners and administrators are responsible for configuring the Bots correctly and ensuring that their use complies with:
+
+Discord's Terms of Service and Community Guidelines.
+Applicable local, national, and international laws.
+The rules and policies of their own Discord server.
+
+You are also responsible for how the Bots are used by members of your server.
+
+5. Prohibited Use
+
+You may not intentionally use any of the Bots to:
+
+Break Discord's Terms of Service or Community Guidelines.
+Conduct illegal activities.
+Harass, threaten, abuse, or target other users.
+Attempt to exploit, disrupt, damage, overload, or gain unauthorized access to the Bots or their systems.
+Intentionally abuse bugs, vulnerabilities, or unintended functionality.
+Circumvent restrictions, security measures, or access controls implemented by the Bots.
+Use the Bots in a way that could reasonably harm their infrastructure or availability for other users.
+6. Data and Privacy
+
+Depending on the Bot and the features being used, the Bots may process information required to provide their functionality.
+
+This may include information such as:
+
+Discord user IDs.
+Discord server IDs.
+Channel IDs.
+Voice channel information.
+Commands and interactions.
+Bot configuration settings.
+Other information required for specific features.
+
+Do not assume that information provided to or processed by a Bot is private unless explicitly stated otherwise.
+
+If a Bot stores or processes personal information, a separate Privacy Policy may apply.
+
+7. Feedback, Support, and Bug Reports
+
+Feedback, suggestions, feature requests, and bug reports are welcome.
+
+If you would like to report an issue, suggest a feature, request an improvement, or receive support, you can join our support server and create a ticket:
+
+https://discord.gg/x3vbHDdfec
+
+8. Changes to the Terms
+
+These Terms of Service may be updated, modified, or replaced as the Bots and their services develop.
+
+The Last Updated date will be changed when significant updates are made.
+
+Continued use of any of the Bots after changes are made constitutes acceptance of the updated Terms.
+
+9. Termination
+
+The bot owner reserves the right to restrict, suspend, or terminate access to Foldgoon Bot 2.0, Zero Music, or Butter Bot for any server or user at any time.
+
+This may occur particularly in cases involving abuse, exploitation, unauthorized access attempts, intentional disruption, or violations of these Terms.
+
+You may remove any of the Bots from your Discord server at any time.
+
+10. Independent Bots
+
+Foldgoon Bot 2.0, Zero Music, and Butter Bot are separate Discord bots and may have different features, requirements, limitations, and behavior.
+
+Availability or functionality of one Bot does not guarantee the availability or functionality of another.
+
+11. No Guarantee of Features
+
+Features advertised or described for any Bot may be modified, delayed, removed, or replaced during development.
+
+The bot owner and development team do not guarantee that a particular feature will remain available indefinitely or operate exactly as expected.
+
+12. Acceptance
+
+By adding, using, or interacting with Foldgoon Bot 2.0, Zero Music, or Butter Bot, you confirm that you have read, understood, and agreed to these Terms of Service.
+
+If you do not agree with these Terms, do not add or use the Bots.
