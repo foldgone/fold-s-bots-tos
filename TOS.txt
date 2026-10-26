@@ -1,8 +1,8 @@
-Foldgoon Bot 2.0, Zero Music, Butter Bot & Utillity Bot — Terms of Service
+foldgone's — Terms of Service
 
 Last Updated: September 8, 2026
 
-By adding, using, or interacting with Foldgoon Bot 2.0, Zero Music, or Butter Bot on a Discord server, you agree to the following Terms of Service.
+By adding, using, or interacting with any of my bots on a Discord server, you agree to the following Terms of Service.
 
 1. Use at Your Own Risk
 
@@ -69,7 +69,7 @@ Feedback, suggestions, feature requests, and bug reports are welcome.
 
 If you would like to report an issue, suggest a feature, request an improvement, or receive support, you can join our support server and create a ticket:
 
-https://discord.gg/x3vbHDdfec
+https://discord.gg/uTjEuftnrW
 
 8. Changes to the Terms
 
@@ -81,7 +81,7 @@ Continued use of any of the Bots after changes are made constitutes acceptance o
 
 9. Termination
 
-The bot owner reserves the right to restrict, suspend, or terminate access to Foldgoon Bot 2.0, Zero Music, or Butter Bot for any server or user at any time.
+The bot owner reserves the right to restrict, suspend, or terminate access to any of the bots for any server or user at any time.
 
 This may occur particularly in cases involving abuse, exploitation, unauthorized access attempts, intentional disruption, or violations of these Terms.
 
@@ -89,7 +89,7 @@ You may remove any of the Bots from your Discord server at any time.
 
 10. Independent Bots
 
-Foldgoon Bot 2.0, Zero Music, and Butter Bot are separate Discord bots and may have different features, requirements, limitations, and behavior.
+Utillity Expand Bot, Zero Music, and Butter Bot, etc are separate Discord bots and may have different features, requirements, limitations, and behavior.
 
 Availability or functionality of one Bot does not guarantee the availability or functionality of another.
 
@@ -101,6 +101,6 @@ The bot owner and development team do not guarantee that a particular feature wi
 
 12. Acceptance
 
-By adding, using, or interacting with Foldgoon Bot 2.0, Zero Music, or Butter Bot, you confirm that you have read, understood, and agreed to these Terms of Service.
+By adding, using, or interacting with Utillity Expand Bot, Zero Music, or Butter Bot, you confirm that you have read, understood, and agreed to these Terms of Service.
 
 If you do not agree with these Terms, do not add or use the Bots.
