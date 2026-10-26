@@ -1,8 +1,8 @@
-Foldgoon Bot 2.0, Zero Music,  Butter Bot  & Utillity Bot — Privacy Policy
+fold's bots — Privacy Policy
 
 Last Updated: September 9, 2026
 
-This Privacy Policy explains how information may be collected, processed, stored, and used when you interact with Foldgoon Bot 2.0, Zero Music, or Butter Bot (collectively referred to as the "Bots").
+This Privacy Policy explains how information may be collected, processed, stored, and used when you interact with any of foldgone's bots (collectively referred to as the "Bots").
 
 By adding or using any of the Bots, you acknowledge that information may be processed as described in this Privacy Policy.
 
@@ -153,9 +153,9 @@ Depending on applicable law and the type of information involved, you may reques
 
 You may also request deletion of information that is stored by the Bots where deletion is technically possible and legally permitted.
 
-For data-related requests, support, or privacy questions, join our support server and create a ticket:
+For data-related requests, support, or privacy questions, join our support server and create a ticket or dm me (foldgone):
 
-https://discord.gg/x3vbHDdfec
+https://discord.gg/uTjEuftnrW
 
 Please provide enough information for us to identify the relevant server, Bot, or data without unnecessarily sharing sensitive information.
 
@@ -169,7 +169,7 @@ If you want stored information deleted, you may contact us through the support s
 
 14. Changes to This Privacy Policy
 
-This Privacy Policy may be updated or changed as Foldgoon Bot 2.0, Zero Music, and Butter Bot develop.
+This Privacy Policy may be updated or changed as any of my bots develop.
 
 The Last Updated date will be changed when significant updates are made.
 
@@ -179,10 +179,10 @@ Continued use of the Bots after changes to this Privacy Policy constitutes ackno
 
 For privacy questions, data requests, concerns, or other inquiries regarding the Bots, please contact us through our support server:
 
-https://discord.gg/x3vbHDdfec
+https://discord.gg/uTjEuftnrW
 
 16. Acceptance
 
-By adding or using Foldgoon Bot 2.0, Zero Music, or Butter Bot, you acknowledge that you have read and understood this Privacy Policy.
+By adding or using any of my bots you acknowledge that you have read and understood this Privacy Policy.
 
 If you do not agree with this Privacy Policy, you should not use the Bots.
